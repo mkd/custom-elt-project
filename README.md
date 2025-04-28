@@ -13,6 +13,15 @@ This repository contains a custom ELT (Extract, Load, Transform) pipeline implem
 - [Original GitHub Repository](https://github.com/justinbchau/custom-elt-project)
 
 
+## Prerequisite Knowledge
+
+Before working with this ELT project, I recommend completing Docker's official getting started materials:
+- [Docker Getting Started Workshop](https://docs.docker.com/get-started/workshop/)
+- [Docker Official Tutorial App Repository](https://github.com/docker/getting-started-app)
+
+These resources provide fundamental Docker knowledge that this ELT project builds upon.
+
+
 ## Project Overview
 
 This implementation serves as a hands-on learning exercise for key data engineering technologies:
